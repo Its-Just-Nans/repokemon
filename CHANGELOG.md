@@ -1,3 +1,154 @@
+# Wed, 01 Jan 2025 02:21:17 GMT
+
+## Added: 81
+
+- alibaba/bulbasaur
+- TienYoung/Venusaur
+- att-innovate/charmander
+- SHA65536/Charmeleon
+- OpenSooq/Charizard
+- grutz/squirtle
+- braxtondiggs/Wartortle
+- doyoubi/Blastoise
+- smk508/caterpie
+- zhuifengshaonianhanlu/pikachu
+- BTheDragonMaster/RAIChU
+- trailofbits/sandshrew
+- rezkam/persian
+- SmartKeyerror/Psyduck
+- wyvernbw/golduck
+- wmeister-old/Arcanine
+- livacengiz/poliwag
+- FlashLight13/poliwhirl
+- ankane/slowpoke
+- jmhobbs/slowbro
+- styfle/magnemite
+- DaanVandenBosch/magneton
+- isislovecruft/farfetchd
+- UT-Austin-RPL/Doduo
+- fitzgen/dodrio
+- eimon96/Cubone
+- E7su/marowak
+- E7su/rhyhorn
+- SciresM/Rhydon
+- project-d3/Chansey
+- sabrogden/Ditto
+- pizn/eevee
+- rgbkrk/vaporeon
+- Byay/quilava
+- luruke/totodile
+- oliviale/noctowl
+- lrstanley/marill
+- Taillook/Azumarill
+- haskellcamargo/sudowoodo
+- jtstothard/politoed
+- Lacrymosaa/Scizor
+- ryaangu/shuckle
+- CoralLeiCN/lairon
+- Lacrymosaa/Chimecho
+- JaiGatsby/Wynaut
+- ahhcash/grotle
+- Lacrymosaa/Chatot
+- benwayne182/giratina
+- tototoshi/sawk
+- Nanoteck137/sewaddle
+- araiWorks/Garbodor
+- gabriel-duque/zorua
+- gastrodon/ferrothorn
+- pmorissette/klink
+- rauhs/klang
+- elastacloud/bisharp
+- BeehiveDT/braviary
+- Vinnie444444444/vullaby
+- bjweerd/fennekin
+- mimvoid/fletchling
+- Nanoteck137/slurpuff
+- PretendoNetwork/Inkay
+- bijij/malamar
+- konstin/gourgeist
+- alanolv/Bergmite
+- Lacrymosaa/Noibat
+- Hooveh/Xerneas
+- gastrodon/cutiefly
+- luisangelmaciel/Xurkitree
+- datatorium/kartana
+- neatteamsoftware/Magearna
+- the-rango/BlipBug
+- lukeleppan/dottler
+- chimerror/orbeetle
+- vladospb/nickIt
+- Den64920/thievul
+- ropfoo/clobbopus
+- SidneyRoberto9/hatenna
+- diareuse/dragapult
+- alanolv/Quaxly
+- SimonOneNineEight/lechonk
+
+## Removed: 58
+
+- suchipi/clefairy
+- eriq-augustine/clefable
+- enthus1ast/muk
+- simnalamburt/shellder
+- uuhan/cloyster
+- mgrachev/gastly
+- dacresni/haunter
+- v4p0r/gengar
+- StevenBaby/onix
+- SuchayParimi/aerodactyl
+- moonbeam-nyc/snorlax
+- B1ue-Dev/Articuno
+- alexander-naumov/YaNMa
+- cgon21/wooper
+- binoy14/quagsire
+- Ryuzaki-MrL/Espeon
+- twitchard/corsola
+- luisangelmaciel/Ho-Oh
+- silvncr/Celebi
+- anirudh-hegde/Exploud
+- timzatko/feebas
+- stylextv/milotic
+- JaavierR/regice
+- captainsafia/shinx
+- ajainvivek/glameow
+- filinger/blitzle
+- thlmenezes/zebstrika
+- Fuyukai/Lilligant
+- mambas1/sandile
+- Grenco/Reuniclus
+- tmobile/ducklett
+- vollov/lampent
+- lewisbarnes/axew
+- Youmenomi/hydreigon
+- dentednerd/volcarona
+- abcboy101/vivillon
+- mlm-games/CLauncher
+- Jeffrey10th/helioptile
+- nccu-floodfire/volcanion
+- SimbaTheCuteDog/rowlet
+- nfrancois/dartrix
+- Denelix/Decidueye
+- hossamasaad/litten
+- chimerror/drampa
+- aixcyi/zeraora
+- mudkipme/meltan
+- juliTorossian/Melmetal
+- algao1/grookey
+- useDeep/yamper
+- gamingflexer/CARKOL
+- YamiKawa1/Applin
+- tienlx97/sirfetchd
+- medeirosJose/alcremie
+- ShiftCodeEU/Regieleki
+- embersee/spectrier
+- ecao77/pawmi
+- hiimfish/pawmo
+- yaycupcake/clodsire
+
+## Changed: 1
+
+- cloutsocks/komala → m-sanchez-dev/Komala
+
 # Sun, 15 Dec 2024 02:28:45 GMT
 
 ## Added: 103
