@@ -1,3 +1,172 @@
+# Sat, 15 Feb 2025 02:04:11 GMT
+
+## Added: 62
+
+- vitoman8899/spearow
+- PikalaxALT/fearow
+- int3rlop3r/ekans
+- danielbarry/venomoth
+- oblador/diglett
+- cvishnuvardhan02/dugtrio
+- FoglyOgly/Meowth
+- rezkam/persian
+- SmartKeyerror/Psyduck
+- nebtex/tentacruel
+- zachlatta/geodude
+- styfle/exeggcute
+- 5310/exeggutor
+- eimon96/Cubone
+- E7su/marowak
+- CodeWhiteWeb/Hitmonlee
+- tylermakes/hitmonchan
+- GitHubHQ/gyaradOS
+- yhangang/lapras
+- sabrogden/Ditto
+- luruke/totodile
+- jtstothard/politoed
+- kohrongying/hoppip
+- asterick/skiploom
+- purpleworks/delibird
+- surajgoraya/kirlia
+- KuuhakuTeam/Gardevoir
+- Twi/glaceon
+- kjoshi1988/pignite
+- mikowl/swoobat
+- dolugen/drilbur
+- umkc-cs-451-2020-spring/dwebble
+- ericgbanta/crustle
+- TecToast/Emolga
+- PanisSupraOmnia/cryogonal
+- dgilland/shelmet
+- salil0001/Accelgor
+- TerrniT/Zekrom
+- rfgordan/landorus
+- xspyhack/Keldeo
+- JamesCalingo/gogoat
+- pkdhn5/pancham
+- utybo/Pangoro
+- gamma-delta/dedenne
+- vberlier/goomy
+- lar-dragon/goodra
+- ZeroProphet/klefki
+- b4ck5p4c3/brionne
+- fro-yo/Pikipek
+- Tzyinc/gumshoos
+- skiz/grubbin
+- Eyal-Davidi/Bewear
+- dejavu1987/comfey
+- ashbaldry/oranguru
+- kjema/cosmog
+- crnvl/cosmoem
+- LunalaProject/lunala
+- luisangelmaciel/Toxel
+- cecomp64/toxtricity
+- o-p/morpeko
+- Arctozolt/arctozolt
+- bronymiau/meowscarada
+
+## Removed: 93
+
+- smk508/caterpie
+- trailofbits/sandshrew
+- theosanderson/sandslash
+- E7su/nidoran
+- E7su/nidoran
+- suchipi/clefairy
+- eriq-augustine/clefable
+- wmeister-old/Arcanine
+- livacengiz/poliwag
+- FlashLight13/poliwhirl
+- mozack/abra
+- codedge-llc/kadabra
+- styfle/magnemite
+- DaanVandenBosch/magneton
+- isislovecruft/farfetchd
+- UT-Austin-RPL/Doduo
+- fitzgen/dodrio
+- kevinpollet/seel
+- blowfishthewizard/Dewgong
+- pirovc/grimer
+- enthus1ast/muk
+- simnalamburt/shellder
+- SciresM/Rhydon
+- project-d3/Chansey
+- moloch--/Tangela
+- Rinkaa/Kangaskhan
+- vollov/horsea
+- JoseRFJuniorLLMs/seadra
+- rgbkrk/vaporeon
+- fluffgfx/jolteon
+- picatz/flareon
+- DevinShine/Porygon
+- SR1s/Omanyte
+- Anatr1/OMASTAR
+- kokimame/kabuto
+- reneklacan/kabutops
+- SuchayParimi/aerodactyl
+- moonbeam-nyc/snorlax
+- fjgparrales95/ariados
+- orderbooktools/crobat
+- dain98/Chinchou
+- PMDCollab/Sunkern
+- namtx/sunflora
+- alexander-naumov/YaNMa
+- cgon21/wooper
+- binoy14/quagsire
+- Ryuzaki-MrL/Espeon
+- A5rocks/umbreon
+- nubbysaurus/sneasel
+- luisangelmaciel/Ho-Oh
+- po5/celebi
+- nickjohnson-dev/treecko
+- drage0/Grovyle
+- Lacrymosaa/Delcatty
+- CoralLeiCN/lairon
+- anthonyjacques20/Electrike
+- kalxd/drifloon
+- SaltyQuetzals/Toxicroak
+- SebastiaanWouters/mesprit
+- kalxd/azelf
+- tototoshi/sawk
+- silentdefault/Trubbish
+- delacruz-dev/joltik
+- chimerror/galvantula
+- elastacloud/bisharp
+- Nanoteck137/slurpuff
+- PretendoNetwork/Inkay
+- bijij/malamar
+- konstin/gourgeist
+- alanolv/Bergmite
+- Lacrymosaa/Noibat
+- Hooveh/Xerneas
+- SidneyRoberto9/cutiefly
+- vulpix500/lycanroc
+- VVoruganti/wishiwashi
+- cloutsocks/komala
+- Nanoteck137/buzzwole
+- datatorium/kartana
+- neatteamsoftware/Magearna
+- MVPShon/marshadow
+- vladospb/nickIt
+- Den64920/thievul
+- ptrckqn/wooloo
+- ropfoo/clobbopus
+- SidneyRoberto9/hatenna
+- diareuse/dragapult
+- alanolv/Quaxly
+- SimonOneNineEight/lechonk
+- dxoigmn/nymble
+- alph4w0lf/LokiX
+- ecao77/pawmi
+- cmarcusdimarco/iron-valiant
+- NDRAEY/Koraidon
+
+## Changed: 3
+
+- kumar8999/Pelipper → Lacrymosaa/Pelipper
+- SfAcodes/flygon → KrishBharadwaj5678/Flygon
+- D2TA/Garchomp → wzen67/garchomp
+
 # Sat, 01 Feb 2025 02:15:21 GMT
 
 ## Added: 1
