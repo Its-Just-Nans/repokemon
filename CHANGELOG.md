@@ -1,3 +1,59 @@
+# Sun, 15 Jun 2025 02:41:12 GMT
+
+## Added: 27
+
+- smk508/caterpie
+- jhsmith/flareon
+- tapnisu/furret
+- tvkhoa/hoothoot
+- PMDCollab/Sunkern
+- Coteh/slugma
+- froggestspirit/suiCune
+- dvisionlab/Larvitar
+- Lacrymosaa/Delcatty
+- Lacrymosaa/Vibrava
+- Shojam/Tropius
+- Lacrymosaa/Chimecho
+- nexxeln/deoxys
+- ncussonn/turtwig
+- zeetwii/combee
+- pizn/leafeon
+- Twi/glaceon
+- kjoshi1988/pignite
+- Zarmakuizz/woobat
+- mikowl/swoobat
+- umkc-cs-451-2020-spring/dwebble
+- dgilland/shelmet
+- rfgordan/landorus
+- pkdhn5/pancham
+- utybo/Pangoro
+- vberlier/goomy
+- LunalaProject/lunala
+
+## Removed: 21
+
+- arfc/moltres
+- Pedro-Moreno/Pichu
+- suchipi/cleffa
+- crypto0627/Unown
+- tofumatt/skarmory
+- mhib/combusken
+- KuuhakuTeam/Gardevoir
+- Brandon689/plusle
+- VowSoftware/starly
+- sdan/ambipom
+- kalxd/drifloon
+- giancarlopro/drapion
+- zeus-12/uxie
+- SebastiaanWouters/mesprit
+- fangwd/archen
+- chimerror/galvantula
+- polygonal-stew/swirlix
+- Nanoteck137/slurpuff
+- Amin-Asadullayev/Noibat
+- darryldejong/noivern
+- MVPShon/marshadow
+
 # Sun, 01 Jun 2025 02:46:47 GMT
 
 ## Added: 119
