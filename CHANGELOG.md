@@ -1,3 +1,138 @@
+# Tue, 01 Jul 2025 02:43:10 GMT
+
+## Added: 61
+
+- BEAMMWorks/Nidoking
+- arfc/moltres
+- bahlo/pichu
+- suchipi/cleffa
+- crypto0627/Unown
+- tofumatt/skarmory
+- mhib/combusken
+- KuuhakuTeam/Gardevoir
+- justinj/surskit
+- Brandon689/plusle
+- megagonlabs/minun
+- VowSoftware/starly
+- suchipi/bidoof
+- sdan/ambipom
+- kalxd/drifloon
+- dominikbraun/buneary
+- giancarlopro/drapion
+- SaltyQuetzals/Toxicroak
+- wyvernbw/finneon
+- zeus-12/uxie
+- SebastiaanWouters/mesprit
+- kalxd/azelf
+- matt-dray/dialga
+- sigempty/Palkia
+- TheLokj/HEATraN
+- tototoshi/sawk
+- Nanoteck137/sewaddle
+- softnetics/swadloon
+- fangwd/archen
+- silentdefault/Trubbish
+- araiWorks/Garbodor
+- gabriel-duque/zorua
+- frantjc/zoroark
+- dain98/Minccino
+- chimerror/galvantula
+- gastrodon/ferrothorn
+- pmorissette/klink
+- rauhs/klang
+- eevee/klinklang
+- BeehiveDT/braviary
+- Vinnie444444444/vullaby
+- magitek-telescope/greninja
+- amberbit/bunnelby
+- Lacrymosaa/Honedge
+- polygonal-stew/swirlix
+- Nanoteck137/slurpuff
+- PretendoNetwork/Inkay
+- bijij/malamar
+- ANSSI-FR/Binacle
+- Amin-Asadullayev/Noibat
+- darryldejong/noivern
+- Hooveh/Xerneas
+- zygarde-projects/zygarde
+- vulpix500/lycanroc
+- VVoruganti/wishiwashi
+- Strato-5/komala
+- MVPShon/marshadow
+- cheeaun/stakataka
+- enbaocao/pawmi
+- hiimfish/pawmo
+- yaycupcake/clodsire
+
+## Removed: 62
+
+- jhsmith/flareon
+- tapnisu/furret
+- tvkhoa/hoothoot
+- PMDCollab/Sunkern
+- Coteh/slugma
+- froggestspirit/suiCune
+- dvisionlab/Larvitar
+- VHaardt/SEEDOT
+- Lacrymosaa/Delcatty
+- Lacrymosaa/Sableye
+- Lacrymosaa/Vibrava
+- KrishBharadwaj5678/Flygon
+- Shojam/Tropius
+- Lacrymosaa/Chimecho
+- nexxeln/deoxys
+- ncussonn/turtwig
+- FelixSchlembach/torterra
+- zeetwii/combee
+- superloach/pachirisu
+- wzen67/garchomp
+- rotemhacks/munchlax
+- pizn/leafeon
+- Twi/glaceon
+- smogon/Porygon-Z
+- ahhcash/gallade
+- kjoshi1988/pignite
+- Kesh17/Oshawott
+- Zarmakuizz/woobat
+- mikowl/swoobat
+- dolugen/drilbur
+- midas-research/audino
+- 52poke/timburr
+- umkc-cs-451-2020-spring/dwebble
+- ericgbanta/crustle
+- alii/scraggy
+- asallh/Scrafty
+- TecToast/Emolga
+- dgilland/shelmet
+- salil0001/Accelgor
+- lomotey1/mienfoo
+- rfgordan/landorus
+- xspyhack/Keldeo
+- Lacrymosaa/Meloetta
+- ChrisCTX/genesect
+- pkdhn5/pancham
+- utybo/Pangoro
+- WaveHack/Meowstic
+- vberlier/goomy
+- lar-dragon/goodra
+- ZeroProphet/klefki
+- Tzyinc/gumshoos
+- skiz/grubbin
+- dejavu1987/comfey
+- ashbaldry/oranguru
+- LunalaProject/lunala
+- Team-Phoenix07/Nihilego
+- blizzarddreams/corviknight
+- the-rango/BlipBug
+- starchildluke/centiskorch
+- ropfoo/clobbopus
+- Arctozolt/arctozolt
+- alanolv/Quaxly
+
+## Changed: 1
+
+- BrownCoatAndKhakis/Seviper → Hochfrequenz/seviper
+
 # Sun, 15 Jun 2025 02:41:12 GMT
 
 ## Added: 27
